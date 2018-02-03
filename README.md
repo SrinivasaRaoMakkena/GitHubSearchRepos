@@ -11,7 +11,7 @@ Used Libraries
 
 Screen
 ---------------
-![alt text](http://url/to/img.png)
+![List of Repositories :)](https://github.com/SrinivasaRaoMakkena/GitHubSearchRepos/blob/master/Screenshot_1517695556.png)
 
 Requirements
 ---------------
